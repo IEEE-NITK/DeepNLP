@@ -16,8 +16,8 @@
 
 ## Co-Occurrence matrix
 
-SVD
-Words as dense vectors.
+1. SVD
+2. Words as dense vectors.
 
 ### Problems with SVD.
 1. Again scalability.
