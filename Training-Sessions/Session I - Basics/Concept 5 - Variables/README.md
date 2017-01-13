@@ -20,6 +20,8 @@ spike.initializer.run()
 ```
 
 * Loop throught the data and update the spike variable when there is a significant increase
+* The if-else methods are two ways to assign values to the variable.
+* The function takes in two arguments the variable name and its value and assigns the value of the variable in the function itself.
 ```python
 for i in range(1, len(raw_data)):
     if raw_data[i] - raw_data[i-1] > 5:

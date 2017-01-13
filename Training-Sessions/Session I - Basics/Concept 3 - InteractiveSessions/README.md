@@ -2,6 +2,7 @@
 
 * Interactive Sessions are another way to use a Session.
 * **What is the difference between a __Session__ and __Interactive Session__?**
+Interactive Sessions allow uus to use variables without constantly calling the session object! (Basically less timing) 
 
 ```python
 import tensorflow as tf

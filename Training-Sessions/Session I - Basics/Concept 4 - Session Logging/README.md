@@ -21,8 +21,9 @@ with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
 
 * As you will see in the output, the value will be negated.
 
-## To Do
 * What does this mean?
+* This command is basically to assign GPUs to perform computations automatically for the given operations.
+* For more information on this click [here](https://www.tensorflow.org/how_tos/using_gpu/)
 ```
 Device mapping: no known devices.
 I tensorflow/core/common_runtime/direct_session.cc:252] Device mapping:
