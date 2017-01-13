@@ -7,23 +7,24 @@
 
 ###Problems:
 
-Scalability with increase in Vocabulary
-Synonyms
-Human intervention - new slang words that come up.
+1. Scalability with increase in Vocabulary
+2. Synonyms
+3. Human intervention - new slang words that come up.
 
 
-So, Word vectors.
+### So, Word vectors.
 
-Co-Occurrence matrix.
+## Co-Occurrence matrix
+
 SVD
-
 Words as dense vectors.
 
-Problems with SVD.
-Again scalability. Computationally Expensive.
-Adding new words?
+### Problems with SVD.
+1. Again scalability.
+2. Computationally Expensive.
+3. Adding new words?
 
-Getting started with learning word vectors
+## Getting started with learning word vectors
 
 We need a way to map words to vectors so that they learn from and represent the corpus.
 
