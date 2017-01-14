@@ -41,3 +41,8 @@ We need a way to map words to vectors so that they learn from and represent the 
 
     Using tensorflow in-built helper functions to learn word embeddings.
     t-SNE(optional)
+
+## Resources
+
+1. word2vec - Tensorflow Docs: https://www.tensorflow.org/tutorials/word2vec/
+2. cs224d resources - http://cs224d.stanford.edu/syllabus.html
