@@ -182,7 +182,7 @@ if TEST_MODE:
     enco_seq2, _, _, _ = createBatch([[enco, []]])
     for i in range(MAX_INPUT_LENGTH):
       feed_dict[placeh_encoder_inputs[i]] = enco_seq2[i]
-      feed_dict[placeh_decoder_inputs[0]] = [getID('<go>')]
+    feed_dict[placeh_decoder_inputs[0]] = [getID('<go>')]
 
     ops = (outputs_prob,)
     output_itrv = sess.run(ops[0], feed_dict)
