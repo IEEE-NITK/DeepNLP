@@ -1,5 +1,10 @@
 # Game of Thrones Chatbot
 
+## Requirements
+`pip install tensorflow`
+`pip install numpy`
+`pip install nltk`
+
 ## Theory/Resources:
 
 1. Recurrent Neural Networks : http://www.deeplearningbook.org/contents/rnn.html
