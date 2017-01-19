@@ -7,6 +7,11 @@
 
 `$ pip install nltk`
 
+## Running the model
+`$ python3 gameofthronesbot.py --train` to train the model.
+
+`$ python3 gameofthronesbot.py --test-interactive` to chat with the model.
+
 ## Theory/Resources:
 
 1. Recurrent Neural Networks : http://www.deeplearningbook.org/contents/rnn.html
