@@ -16,7 +16,7 @@ neg_op = tf.neg(x)
 ```python
 with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
     result = sess.run(neg_op)
-    print result
+    print(result)
 ```
 
 * As you will see in the output, the value will be negated.

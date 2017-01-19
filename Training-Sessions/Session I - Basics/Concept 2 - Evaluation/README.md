@@ -7,7 +7,7 @@ import tensorflow as tf
 
 * Define a 1x2 Tensor matrix
 ```python
-x = tf.constant([1.0,2.0])
+x = tf.constant([[1.0,2.0]])
 ```
 
 * Let's negate the values and see what happens. 
