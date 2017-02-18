@@ -30,11 +30,11 @@ wordVectors0 = sgd(
  The current code is in python2. All the print statements have to be changed while migrating to python3. Rest should be compatible but proper checks have to be made first before integrationg.
  
 ## Sentiment Analysis
-To test the sebtiment Analysis model
+To test the Sentiment Analysis model
 ```
 $ python sentiment.py
 ```
-It will run the simply Softmax Regression model for differrent regularization parameters, choose the best one and predict on the test set based on that. Accuracy is only ~30% but that is what is expected according to the assignment.
+It will run the simply Softmax Regression model for differrent regularization parameters, choose the best one and predict on the test set. Accuracy is only ~30% but that is what is expected according to the assignment.
 Lots of changes can be made.
 A multilayer Neural Net would do a better job. (Use tensorflow instead of hardcoded softmaxreg code)
 
