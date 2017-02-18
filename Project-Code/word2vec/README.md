@@ -1,6 +1,6 @@
 # word2vec in numpy and sentiment analysis using average word vectors
 
-Implementation of a word2vec model in numpy and applying it to perform sentiment analysis.
+Implementation of a word2vec model in numpy using skip-gram and applying it to perform sentiment analysis.
 
 These are actually solutions to assignment 1 of cs224d. It has been trained on the Stanford Sentiment Treebank. 
 
@@ -29,6 +29,14 @@ wordVectors0 = sgd(
  
  The current code is in python2. All the print statements have to be changed while migrating to python3. Rest should be compatile but proper checks have to be made first before integrationg.
  
+## Sentiment Analysis
+To test the sebtiment Analysis model
+```
+$ python sentiment.py
+```
+It will run the simply Softmax Regression model for differrent regularization parameters, choose the best one and predict on the test set based on that. Accuracy is only ~30% but that is what is expected according to the assignment.
+Lots of changes can be made.
+A multilayer Neural Net would do a better job. (Use tensorflow instead of hardcoded softmaxreg code)
 
 ## Resources
 Starter code and assignment questions can be found here: http://cs224d.stanford.edu/assignment1/index.html
@@ -36,6 +44,11 @@ Starter code and assignment questions can be found here: http://cs224d.stanford.
 For Math check solution pdfs here : https://github.com/dcdlwg/stanford_cs224d/tree/master/assignment1/math
 
 ## Further Changes
+ - [] Predict on User Input (Currently it just tests on given test set)
+ - [] Interactive Learning
+ - [] Web App
+ - [] Multi Layer Neural Net for sentiment analysis instead of current Softmax Classifier
+ - [] Different Approaches to Sentimentr Analysis.
 
 I've included as much documentation as possible, will update it. If there is some part you are not clear about please raise an issue and I will include the necessary documentation.
 
