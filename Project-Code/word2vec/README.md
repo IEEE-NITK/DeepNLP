@@ -48,7 +48,7 @@ For Math check solution pdfs here : https://github.com/dcdlwg/stanford_cs224d/tr
  - [ ] Interactive Learning
  - [ ] Web App
  - [ ] Multi Layer Neural Net for sentiment analysis instead of current Softmax Classifier
- - [ ] Different Approaches to Sentimentr Analysis.
+ - [ ] Different Approaches to Sentiment Analysis.
 
 I've included as much documentation as possible, will update it. If there is some part you are not clear about please raise an issue and I will include the necessary documentation.
 
