@@ -25,16 +25,17 @@ wordVectors0 = sgd(
  
   You can individually run each file to see what it does. (Ignore the NOtImplementedError)
  
- ## Things to be taken care of if integrated to the main bot
+## Things to be taken care of if integrated to the main bot
  
  The current code is in python2. All the print statements have to be changed while migrating to python3. Rest should be compatile but proper checks have to be made first before integrationg.
  
 
-  
+## Resources
 Starter code and assignment questions can be found here: http://cs224d.stanford.edu/assignment1/index.html
 
 For Math check solution pdfs here : https://github.com/dcdlwg/stanford_cs224d/tree/master/assignment1/math
 
+## Further Changes
 
 I've included as much documentation as possible, will update it. If there is some part you are not clear about please raise an issue and I will include the necessary documentation.
 
