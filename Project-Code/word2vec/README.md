@@ -27,7 +27,7 @@ wordVectors0 = sgd(
  
 ## Things to be taken care of if integrated to the main bot
  
- The current code is in python2. All the print statements have to be changed while migrating to python3. Rest should be compatile but proper checks have to be made first before integrationg.
+ The current code is in python2. All the print statements have to be changed while migrating to python3. Rest should be compatible but proper checks have to be made first before integrationg.
  
 ## Sentiment Analysis
 To test the sebtiment Analysis model
