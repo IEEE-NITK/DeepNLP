@@ -1,5 +1,5 @@
 # DeepNLP
-Combines NLP with Deep Learning 
+Repository for code and resources pertaining to the Deep Learning project aimed at NLP undertaken by NITK IEEE AI SIG.
 
 ## Team Members
 * Vinay 
