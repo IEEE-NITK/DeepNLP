@@ -53,6 +53,15 @@ def getID(word, word2index):
       wid = word2index.get("<unknown>")
   return wid
 
+def load_data(PATH=''):
+    # read data dictionaries
+    with open(PATH + 'data.pkl', 'rb') as f:
+        data = pickle.load(f)
+    # read numpy arrays
+    train = np.load(PATH + 'train.npy')
+    test = np.load(PATH + 'test.npy')
+    return data, train, test
+
 if __name__ == '__main__':
 
 
