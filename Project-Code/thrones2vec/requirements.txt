@@ -1,0 +1,8 @@
+matplotlib==1.5.1
+numpy==1.12.0
+pandas==0.19.1
+bhtsne==0.1.9
+gensim==1.0.1
+nltk==3.2.2
+seaborn==0.7.1
+scikit_learn==0.18.1
