@@ -1,74 +1,94 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>IEEE DeepNLP Demo</title>
-		<link rel="stylesheet" href="static/css/normalize.css">
-		<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans'>
-		<link rel='stylesheet prefetch' href='/static/js/jquery.mCustomScrollbar.min.css'>
-		<link rel="stylesheet" href="static/css/style.css">
-		<script src="/static/js/jquery-latest.js"></script>
-	</head>
-	<body id="page_body">
-		<div class="wrapper">
-			
-		<div class="chat chat_left">
-			<div class="chat-title">
-				<h1>Linguistic Relationships</h1>
-				<h2>Ask Me relationships between words</h2>
-				<figure class="avatar">
-				<img src="static/res/botim.png" /></figure>
-			</div>
-			<div class="message-box">
-				<div class="pair_1">
-					
-					<textarea type="text" class="word-input" placeholder="Enter word 1"></textarea>
-					<div class="symbol">
-						::
-					</div>
-					<textarea type="text" class="word-input" placeholder="Enter word 2"></textarea>
-				</div>
-				<div class="pair_2">
-					<textarea type="text" class="word-input" placeholder="Enter word 3"></textarea>
-					<div class="symbol">
-						::
-					</div>
-					<textarea type="text" class="word-input" placeholder="The answer is" disabled="disabled"></textarea>
-				</div>
-					<button type="submit" class="word-submit">Check</button>
-			</div>
-		</div>
-		<div class="chat">
-			<div class="chat-title">
-				<h1>Chatbot</h1>
-				<h2>Ask Me Anything</h2>
-				<figure class="avatar">
-				<img src="static/res/botim.png" /></figure>
-			</div>
-			<div class="messages">
-				<div class="messages-content"></div>
-			</div>
-			<div class="message-box">
-				<textarea type="text" class="message-input" placeholder="Type message..."></textarea>
-				<button type="submit" class="message-submit">Send</button>
-			</div>
-		</div>
-		<div class="chat links">
-			<div class="chat-title">
-				<h1>Relevant Links</h1>
-				<h2>I'd suggest you check out these links</h2>
-				<figure class="avatar">
-				<img src="static/res/botim.png" /></figure>
-			</div>
-			<div class="messages">
-			</div>
-			<div class="message-box">
-				data fetched from google :)
-			</div>
-		</div>
-		</div>
-		<script src='/static/js/jquery.min.js'></script>
-		<script src='/static/js/jquery.mCustomScrollbar.concat.min.js'></script>
-		<script src="static/js/index.js"></script>
-	</body>
+
+<head>
+    <meta charset="UTF-8">
+    <title>IEEE DeepNLP Demo</title>
+    <link rel="stylesheet" href="static/css/normalize.css">
+    <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+    <link rel='stylesheet prefetch' href='/static/js/jquery.mCustomScrollbar.min.css'>
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="/static/js/jquery-latest.js"></script>
+</head>
+
+<body id="page_body">
+    <div class="wrapper">
+        <div class="chat_wrap">
+            <div class="chat chat_left">
+                <div class="chat-title">
+                    <h1>Linguistic Relationships</h1>
+                    <h2>Ask Me relationships between words</h2>
+                    <figure class="avatar">
+                        <img src="static/res/botim.png" /></figure>
+                </div>
+                <div class="message-box">
+                    <div class="pair_1">
+                        <textarea type="text" class="word-input" placeholder="Enter word 1"></textarea>
+                        <div class="symbol">
+                            ::
+                        </div>
+                        <textarea type="text" class="word-input" placeholder="Enter word 2"></textarea>
+                    </div>
+                    <div class="pair_2">
+                        <textarea type="text" class="word-input" placeholder="Enter word 3"></textarea>
+                        <div class="symbol">
+                            ::
+                        </div>
+                        <textarea type="text" class="word-input" placeholder="The answer is" disabled="disabled"></textarea>
+                    </div>
+                    <button type="submit" class="word-submit">Check</button>
+                </div>
+            </div>
+            <div class="chat chat_left chat_team_members">
+                <div class="chat-title">
+                    <h1>IEEE CompSoc AI SIG</h1>
+                    <h2>Team Members</h2>
+                    <figure class="avatar">
+                        <img src="static/res/botim.png" /></figure>
+                </div>
+                <div class="message-box">
+                <ul class="left">
+                	<li>Vinay Bhat</li>
+                	<li>Kaushik S Kalmadi</li>
+                	<li>Vighnesh Velayudhan</li>
+                	<li>Sagar Bharadwaj</li>
+                	<li>Arvind</li>
+                </ul>
+                <ul class="right">
+                	<li>Natasha Jeppu</li>
+                	<li>Salman Shah</li>
+                	<li>Shashank Rao M</li>
+                	<li>Adithya Anantharaman</li>
+                	<li>Rakshith</li>
+                </ul>
+                </div>
+            </div>
+        </div>
+        <div class="chat_wrap">
+            <div class="chat">
+                <div class="chat-title">
+                    <h1>Chatbot</h1>
+                    <h2>Ask Me Anything</h2>
+                    <figure class="avatar">
+                        <img src="static/res/botim.png" /></figure>
+                </div>
+                <div class="messages">
+                    <div class="messages-content">
+                    </div>
+                    <div class="reply_links">
+                        
+                    </div>
+                </div>
+                <div class="message-box">
+                    <textarea type="text" class="message-input" placeholder="Type message..."></textarea>
+                    <button type="submit" class="message-submit">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src='/static/js/jquery.min.js'></script>
+    <script src='/static/js/jquery.mCustomScrollbar.concat.min.js'></script>
+    <script src="static/js/index.js"></script>
+</body>
+
 </html>

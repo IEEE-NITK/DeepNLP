@@ -62,7 +62,6 @@ Chat
           transform: translate(-50%, -50%);
   */
   flex: 1;
-  max-width: 20%;
   height: 80vh;
   max-height: 500px;
   z-index: 2;
@@ -528,4 +527,46 @@ Bounce
     -webkit-transform: translateY(-10px);
             transform: translateY(-10px);
   }
+}
+
+/* The links part */
+.reply_links ul li {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid #FFC107;
+    border-radius: 500px;
+    background-color: rgba(255, 193, 7, 0.46);
+    color: black;
+    margin:0px 3px;
+}
+.reply_links ul{
+  list-style-type: none;
+}
+.reply_links{
+  position: absolute;
+  bottom: 0px;
+}
+
+.links_on .message-content{
+  height: 90%!important;
+}
+.links_on .reply_links{
+  height: 10%!important;
+}
+.chat_team_members ul {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 1.2em;
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.6;
+    text-align: center;
+}
+.chat.chat_left.chat_team_members li {
+    margin: 5px;
+    background-color: rgba(39, 38, 38, 0.5);
+}
+.chat_team_members{
+  margin-top: 50px;
+  max-height: none!important;
 }
