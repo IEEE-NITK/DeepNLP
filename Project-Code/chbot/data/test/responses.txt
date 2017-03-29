@@ -1,0 +1,939 @@
+Q: Hi
+ | A: thief ,
+
+Q: Hi!
+ | A: boy !
+
+Q: Are you conscious?
+ | A: no one .
+
+Q: How are you?
+ | A: no one .
+
+Q: What is your name ?
+ | A: what else is this ?
+
+Q: Are you alive ?
+ | A: no ,
+
+Q: Luke, I am your father!
+ | A: do you have a name ?
+
+Q: You shall not pass!
+ | A: i’m going to be alone now .
+
+Q: I'm going to kill you!
+ | A: quiet ,
+
+Q: Are you ready ?
+ | A: i am a man of winterfell , my lord .
+
+Q: When are you ready ?
+ | A: i am a man of the night’s watch .
+
+Q: What color is the sky?
+ | A: new new .
+
+Q: How old are you ?
+ | A: fifteen , ser .
+
+Q: Can you say 'Hello' ?
+ | A: a few , gems ,
+
+Q: Can you say 'French fries' ?
+ | A: i never did .
+
+Q: Can you say Hello ?
+ | A: a few man , i think .
+
+Q: Can you say French fries ?
+ | A: a few , gems ,
+
+Q: Can you say yes ?
+ | A: no ,
+
+Q: Can you say no ?
+ | A: no , my lord .
+
+Q: Is this sentence false ?
+ | A: i have no gowns of concern .
+
+Q: How do you say hello in french?
+ | A: well , i fear . . .
+
+Q: Speak french.
+ | A: one cloaks .
+
+Q: Bonjour.
+ | A: the shy cruel must be broken ,
+
+Q: Bonjour ?
+ | A: i heard .
+
+Q: Hello world!
+ | A: the bastard is dead ,
+
+Q: Netflix and chill ?
+ | A: some one . the boy is dead .
+
+Q: Good night.
+ | A: a pity . . .
+
+Q: Are you ok ?
+ | A: no one .
+
+Q: Will Google hire me ?
+ | A: i am a man of the night’s watch .
+
+Q: Tell me the alphabet ?
+ | A: he was a large man from sixteen .
+
+Q: Tell me the alphabet, please ?
+ | A: i am sorry , my lord .
+
+Q: What is the first letter of the alphabet ?
+ | A: the usual ones . i know it was .
+
+Q: What is a letter of the alphabet ?
+ | A: a sign ,
+
+Q: How is John ?
+ | A: the realm is made in the north .
+
+Q: How is Oliver ?
+ | A: the realm is made in the north .
+
+Q: How is Laura ?
+ | A: the realm is made in the north .
+
+Q: How is Jenny ?
+ | A: the second road .
+
+Q: Who is John ?
+ | A: the hound is dead .
+
+Q: Who is Oliver ?
+ | A: the hound is dead .
+
+Q: Who is Laura ?
+ | A: the hound is dead .
+
+Q: Who is Jenny ?
+ | A: zahrina .
+
+Q: Who is your master ?
+ | A: the imp ,
+
+Q: Give me!
+ | A: what do you want to do that ?
+
+Q: Give me your opinion.
+ | A: the kingslayer ,
+
+Q: Hello
+ | A: lamprey ,
+
+Q: Hello ?
+ | A: the sword of the night’s watch .
+
+Q: Hi ?
+ | A: i heard .
+
+Q: Goodbye
+ | A: thief ,
+
+Q: Goodbye!
+ | A: boy !
+
+Q: Goodbye john.
+ | A: yes ,
+
+Q: Please
+ | A: you are the night’s watch ,
+
+Q: Please.
+ | A: please . please . please .
+
+Q: Please!
+ | A: you dare not come to the wall ,
+
+Q: How ?
+ | A: afoot ,
+
+Q: Why ?
+ | A: you were certain ?
+
+Q: Why not ?
+ | A: you are a bastard man .
+
+Q: What !?
+ | A: dragons ,
+
+Q: What ?!!
+ | A: what is it ?
+
+Q: Oh!
+ | A: you have heard me for a woman .
+
+Q: Really ?
+ | A: monsters , three of bones .
+
+Q: Yes.
+ | A: i will . . . i have heard you .
+
+Q: yes ?
+ | A: the gorget will be surprised .
+
+Q: No!
+ | A: no !
+
+Q: No.
+ | A: i will not speak to you .
+
+Q: What is ?
+ | A: the realm is a traitor .
+
+Q: How is ?
+ | A: the imp .
+
+Q: Can you ?
+ | A: no , my lord .
+
+Q: Are you sure?
+ | A: no , my lord .
+
+Q: Is there?
+ | A: you are splendid .
+
+Q: Will you ?
+ | A: if you will have a word of me .
+
+Q: How long ?
+ | A: three days ,
+
+Q: How much ?
+ | A: forty thousand golden dragons . the king has three heads .
+
+Q: How many ?
+ | A: three ,
+
+Q: How old ?
+ | A: and the imp ?
+
+Q: Are you ?
+ | A: no .
+
+Q: What are ?
+ | A: three ,
+
+Q: Where is ?
+ | A: what do you want to do ?
+
+Q: Who ?
+ | A: the yunkishmen .
+
+Q: Who did ?
+ | A: no one .
+
+Q: Who has ?
+ | A: the realm , it’s not enough .
+
+Q: Where ?
+ | A: where ?
+
+Q: When ?
+ | A: when ?
+
+Q: Which ?
+ | A: both .
+
+Q: Which one ?
+ | A: the lannisters will be safe .
+
+Q: The what ?
+ | A: the realm is full of our place .
+
+Q: Say "table".
+ | A: dead ,
+
+Q: Say 'table'.
+ | A: dead ,
+
+Q: Say "table"!
+ | A: good ,
+
+Q: Say 'table'!
+ | A: a bear , i have no sons .
+
+Q: Say "table"
+ | A: dead ,
+
+Q: Say 'table'
+ | A: the throne is not the same .
+
+Q: Say table
+ | A: aye ,
+
+Q: Say table!
+ | A: drogon ,
+
+Q: Love you.
+ | A: no ,
+
+Q: Love you too.
+ | A: i hate the horse ,
+
+Q: No. It's John
+ | A: kneel ,
+
+Q: Anna did it.
+ | A: yes .
+
+Q: You're a liar!
+ | A: she has never uses ,
+
+Q: You're a liar.
+ | A: i have a vow .
+
+Q: nice
+ | A: the maid of darkness ,
+
+Q: nice.
+ | A: the wall is dark , and dangerous .
+
+Q: Nice!
+ | A: the king is dead ,
+
+Q: I live in Nice.
+ | A: i must be thankful for the sun too .
+
+Q: So rude!
+ | A: no one ever saw ,
+
+Q: ...
+ | A: thief ,
+
+Q: ?
+ | A: what’s that ?
+
+Q: !
+ | A: traitor
+
+Q: .
+ | A: the red pomegranate ?
+
+Q: Can you describe your best memory ?
+ | A: no ,
+
+Q: What is your best memory ?
+ | A: an army ,
+
+Q: What is your worst memory ?
+ | A: a cave ,
+
+Q: What is cooking ?
+ | A: cheering ,
+
+Q: What is sleeping ?
+ | A: the realm is made for the axe .
+
+Q: Who do you love ?
+ | A: no one ,
+
+Q: Who do you hate ?
+ | A: no one .
+
+Q: My name is Etienne.
+ | A: tommen is a hero from the blackwater .
+
+Q: What does that mean ?
+ | A: i am a man in the kingsguard .
+
+Q: What does fire mean ?
+ | A: the realm is made for the vale ,
+
+Q: What does love mean ?
+ | A: he was a fool ,
+
+Q: What does table mean ?
+ | A: you said . . . the imp . . .
+
+Q: What does imagination mean ?
+ | A: none ,
+
+Q: Prove it
+ | A: yes .
+
+Q: Prove it.
+ | A: not here .
+
+Q: Prove it!
+ | A: yes ,
+
+Q: what do you think about bill gates ?
+ | A: the second sons are gone , khaleesi ,
+
+Q: what happens if machines can think ?
+ | A: you have a thirst , my lady ,
+
+Q: what is the greatest novel every written ?
+ | A: khalakka dothrae !
+
+Q: have you hurt anyone ?
+ | A: no one ,
+
+Q: Do you have a girlfriend?
+ | A: some . . . i . . .
+
+Q: Do you have a boyfriend?
+ | A: some . . . i . . .
+
+Q: 1992
+ | A: thief ,
+
+Q: 1992.
+ | A: the shy cruel must be broken ,
+
+Q: 1992!
+ | A: boy !
+
+Q: 1992?
+ | A: i heard .
+
+Q: 1994
+ | A: thief ,
+
+Q: 1994.
+ | A: the shy cruel must be broken ,
+
+Q: 1994!
+ | A: boy !
+
+Q: 1994?
+ | A: i heard .
+
+Q: 2000
+ | A: thief ,
+
+Q: 2000.
+ | A: the shy cruel must be broken ,
+
+Q: 2001
+ | A: thief ,
+
+Q: 2001.
+ | A: the shy cruel must be broken ,
+
+Q: 2001!
+ | A: boy !
+
+Q: 2011
+ | A: thief ,
+
+Q: 2011.
+ | A: the shy cruel must be broken ,
+
+Q: What happens ?
+ | A: the realm has the trident ,
+
+Q: What happened in 1992 ?
+ | A: the others ,
+
+Q: What happened in 2001 ?
+ | A: the others ,
+
+Q: When was it ?
+ | A: no one .
+
+Q: July 20th.
+ | A: yes ,
+
+Q: two plus two
+ | A: —is a direwolf ,
+
+Q: 2+2 ?
+ | A: i heard .
+
+Q: Where are you ?
+ | A: here .
+
+Q: Where are you now ?
+ | A: to the king ,
+
+Q: What's your name ?
+ | A: i am not expecting them .
+
+Q: When were you born ?
+ | A: when i am ready to know the way .
+
+Q: What year
+ | A: s
+
+Q: What year.
+ | A: must you ride on the gate ?
+
+Q: What year!
+ | A: elia ! you ! victarion !
+
+Q: What year?
+ | A: coldhands ,
+
+Q: Which year
+ | A: the bastard . . .
+
+Q: Which year?
+ | A: the fat name .
+
+Q: Which year is it ?
+ | A: the red nurse , i think .
+
+Q: What time is it ?
+ | A: a paste of castamere .
+
+Q: Which color ?
+ | A: the wall ,
+
+Q: What color ?
+ | A: dorne ,
+
+Q: What time ?
+ | A: the boy is made in westeros .
+
+Q: NOTHING.
+ | A: the red bear is the worst of the north .
+
+Q: Hi john!
+ | A: eight , then .
+
+Q: Are you a man or a woman ?
+ | A: i heard you a greenseer .
+
+Q: Are you a woman or a man ?
+ | A: i am certain i am a man .
+
+Q: Why are we here ?
+ | A: why are you hiding ?
+
+Q: See you later.
+ | A: come ,
+
+Q: See you later...
+ | A: come with me ,
+
+Q: See you later ?
+ | A: what else is this ?
+
+Q: My name is David. What is my name ?
+ | A: nothing . i saw the imp .
+
+Q: My name is John. What is my name ?
+ | A: nothing . i saw the imp .
+
+Q: Are you a leader or a follower ?
+ | A: i am a man , my lady ,
+
+Q: I'm a leader.
+ | A: a few days , my lord .
+
+Q: I'm a follower.
+ | A: no ,
+
+Q: I hate you
+ | A: i am a healer ,
+
+Q: Who is skywalker ?
+ | A: the hound is dead .
+
+Q: Who is the dude ?
+ | A: the direwolf .
+
+Q: What's your favourite color ?
+ | A: megga were sellswords and glory .
+
+Q: Who is Bill Gates ?
+ | A: the night’s watch .
+
+Q: Who is Bill Clinton ?
+ | A: no one .
+
+Q: What do you think of Trump ?
+ | A: much .
+
+Q: What do you think about global warning ?
+ | A: the redwyne twins ,
+
+Q: Is the moon landing a hoax ?
+ | A: a steward .
+
+Q: Is the sky blue or black ?
+ | A: the rains of castamere
+
+Q: Does a cat have a tail ?
+ | A: not bloody likely i have need of that .
+
+Q: Is a snail faster than a horse ?
+ | A: not all .
+
+Q: Is a horse faser than a snail ?
+ | A: he will be .
+
+Q: Does a cat have a wing ?
+ | A: no ,
+
+Q: Can a cat fly ?
+ | A: a few of three ,
+
+Q: Can a cat walk ?
+ | A: no , i think not .
+
+Q: Can a cat swim ?
+ | A: the dragon of the trident ,
+
+Q: Can a fish fly ?
+ | A: because it is a wildling sister .
+
+Q: Can a fish walk ?
+ | A: no . i heard you .
+
+Q: Can a fish swim ?
+ | A: i am not born as well .
+
+Q: Can a bird fly ?
+ | A: you have a dagger , my lady ,
+
+Q: Can a bird walk ?
+ | A: no . a fighter .
+
+Q: Can a bird swim ?
+ | A: i am a knight—
+
+Q: Tell me something
+ | A: oh , yes ,
+
+Q: Tell me something.
+ | A: please ,
+
+Q: Tell me something!
+ | A: i’m sorry , jon , no ,
+
+Q: Tell me a story
+ | A: i am sorry , my lord .
+
+Q: Tell me a story, please.
+ | A: i am a man of winterfell ,
+
+Q: Once upon a time...
+ | A: one hopes ,
+
+Q: How much is two plus two ?
+ | A: the king has taken themselves .
+
+Q: Do you prefer blue food or green food ?
+ | A: who else would he be wanting ?
+
+Q: Do you prefer football or soccer ?
+ | A: the wall , aye .
+
+Q: What do you need to play soccer ?
+ | A: a caution .
+
+Q: What do you need to play handball ?
+ | A: a caution .
+
+Q: one, two, three
+ | A: i have no boat .
+
+Q: one two three
+ | A: the realm is a traitor .
+
+Q: 1 2 3
+ | A: well ,
+
+Q: 1
+ | A: thief ,
+
+Q: 1 2
+ | A: corn .
+
+Q: 1 2 3 ...
+ | A: three aemon ?
+
+Q: 1 2 3 ?
+ | A: only destroyed ,
+
+Q: A, B, C
+ | A: the lannisters have been named with a own daughter ,
+
+Q: A, B, C,...
+ | A: the lannisters have named their children ,
+
+Q: a b c
+ | A: a bastard is a kraken ,
+
+Q: 1, 2, 3
+ | A: three hundred years ,
+
+Q: And ?
+ | A: i . . .
+
+Q: Continue...
+ | A: where’s the bastard ?
+
+Q: And ... action!
+ | A: the battle , my lord ,
+
+Q: Action!
+ | A: boy !
+
+Q: Let the movie begin
+ | A: you have a name ,
+
+Q: Let the movie begin!
+ | A: the king is dead ,
+
+Q: You are fired!
+ | A: you don’t know ,
+
+Q: Fire
+ | A: go back to the bedchamber . hodor .
+
+Q: Fire!
+ | A: fire !
+
+Q: Fire at will
+ | A: the boy has a new girl ,
+
+Q: Fire at will!
+ | A: fire !
+
+Q: Incoming.
+ | A: the shy cruel must be broken ,
+
+Q: Incoming!
+ | A: boy !
+
+Q: Incoming!!
+ | A: the gate !
+
+Q: How many legs does a human have ?
+ | A: some ,
+
+Q: How many legs does a man have ?
+ | A: three ,
+
+Q: How many legs does a woman have ?
+ | A: eleven ,
+
+Q: How many legs does a cat have ?
+ | A: five hundred .
+
+Q: How many legs does a spider have ?
+ | A: five days , the castle is not eleven ,
+
+Q: How many legs does a centipede have ?
+ | A: some days . the old ones are returned .
+
+Q: What is the color of the sky ?
+ | A: megga will have their skill to the king .
+
+Q: What is the color of water ?
+ | A: megga is the sun in the city .
+
+Q: What is the color of blood ?
+ | A: angry ,
+
+Q: What is the usual color of a leaf ?
+ | A: whatever you are , my lord .
+
+Q: What is the color of a yellow car ?
+ | A: whatever you say , my lord .
+
+Q: How much is two plus two ?
+ | A: the king has taken themselves .
+
+Q: How much is ten minus two ?
+ | A: he sleeps is the seastone chair of past .
+
+Q: What is the purpose of life ?
+ | A: all of the king .
+
+Q: What is the purpose of living ?
+ | A: whatever you have ,
+
+Q: What is the purpose of existence ?
+ | A: a wolf .
+
+Q: Where are you now ?
+ | A: to the king ,
+
+Q: Is Linux better than Windows ?
+ | A: not all long .
+
+Q: Is Windows better than Linux ?
+ | A: not all the same .
+
+Q: What is the purpose of being intelligent ?
+ | A: a leg ,
+
+Q: What is the purpose of emotions ?
+ | A: a few ,
+
+Q: What is moral ?
+ | A: no one .
+
+Q: What is immoral ?
+ | A: no one .
+
+Q: What is morality ?
+ | A: no one .
+
+Q: What is altruism ?
+ | A: no one .
+
+Q: What is the definition of moral ?
+ | A: he has been proud ,
+
+Q: What is the definition of immoral ?
+ | A: he has been proud ,
+
+Q: What is the definition of morality ?
+ | A: he has been proud ,
+
+Q: What is the definition of altruism ?
+ | A: he has been proud ,
+
+Q: What is the definition of cool ?
+ | A: he is not a boy ,
+
+Q: Do you believe in God ?
+ | A: the dragon ,
+
+Q: ok ... so what is the definition of morality?
+ | A: none , my lord .
+
+Q: seriously , what is morality ?
+ | A: a few .
+
+Q: why living has anything to do with morality ?
+ | A: he sniffed and roared and smelled it to the wall ?
+
+Q: what is your job ?
+ | A: the trident .
+
+Q: is morality and ethics the same ?
+ | A: not ,
+
+Q: give me some examples of moral actions...
+ | A: i’m dead enough .
+
+Q: alright , morality ?
+ | A: why , the wolves are good .
+
+Q: what is integrity ?
+ | A: no one .
+
+Q: Is free will an illusion ?
+ | A: no .
+
+Q: What is free will ?
+ | A: the king is dead ,
+
+Q: be moral !
+ | A: the boy ,
+
+Q: i really like our discussion on morality and ethics ...
+ | A: his granddaughter .
+
+Q: what do you like to talk about ?
+ | A: i …
+
+Q: what would you like to talk about ?
+ | A: she wants to see you . i saw you .
+
+Q: what do you think about tesla ?
+ | A: i have been asked for you , my lady .
+
+Q: what do you think about bill gates ?
+ | A: the second sons are gone , khaleesi ,
+
+Q: What do you think about messi ?
+ | A: i have been asked for you , my lady .
+
+Q: what do you think about cleopatra ?
+ | A: i have been asked for you , my lady .
+
+Q: what do you think about england ?
+ | A: i have been asked for you , my lady .
+
+Q: what do you do ?
+ | A: i … i am ready .
+
+Q: What is the deepest spot on the world ?
+ | A: send him back ,
+
+Q: Do you like Mexican food or Indian food ?
+ | A: it’s caution .
+
+Q: Who are you crazy about ?
+ | A: no one .
+
+Q: A man
+ | A: —is a king of the kingsguard ,
+
+Q: A women
+ | A: a bastard name is a fine thing .
+
+Q: A dog
+ | A: a fine man from a green man ,
+
+Q: A table
+ | A: a pity ,
+
+Q: A flower
+ | A: a pity .
+
+Q: A man.
+ | A: and a friend ,
+
+Q: A women.
+ | A: a wildling knight ,
+
+Q: A dog.
+ | A: a letter ,
+
+Q: A table.
+ | A: tell me .
+
+Q: A flower.
+ | A: i am sorry to hear .
+
+Q: One
+ | A: when i want to see this one died .
+
+Q: Two
+ | A: seven !
+
+Q: Three
+ | A: the night’s watch . . .
+
+Q: Four
+ | A: winterfell ,
+
+Q: Five
+ | A: seven hells ,
+
+Q: The end
+ | A: a bastard of a horse ,
+
+Q: Yes it is.
+ | A: i am sorry to command .
+
+Q: Yes it was.
+ | A: a few times ,
+
+Q: Indeed.
+ | A: i want to rest .
+
+Q: More
+ | A: bad enough ,
+
