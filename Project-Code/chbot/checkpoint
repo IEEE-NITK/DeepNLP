@@ -1,0 +1,2 @@
+model_checkpoint_path: "gotmodel.save"
+all_model_checkpoint_paths: "gotmodel.save"
