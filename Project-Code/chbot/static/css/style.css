@@ -530,7 +530,7 @@ Bounce
 }
 
 /* The links part */
-.reply_links ul li {
+.reply_links ul li, .reply_links2 ul li {
     display: inline-block;
     padding: 5px;
     border: 2px solid #FFC107;
@@ -539,10 +539,10 @@ Bounce
     color: black;
     margin:0px 3px;
 }
-.reply_links ul{
+.reply_links ul, .reply_links2 ul{
   list-style-type: none;
 }
-.reply_links{
+.reply_links, .reply_links2{
   position: absolute;
   bottom: 0px;
 }
@@ -569,4 +569,58 @@ Bounce
 .chat_team_members{
   margin-top: 50px;
   max-height: none!important;
+}
+
+.overlay{
+  position: fixed;
+  width: 100%;
+  top:0px;
+  background-color: rgba(255,255,255,0.5);
+}
+.top_strip button {
+    background-color: #1D7745;
+    padding: 10px;
+    border: 0px;
+    border-radius: 50px;
+    color: white;
+    height: 5vh;
+}
+.top_strip{
+  height: 5vh;
+  text-align: right;
+}
+.image_holder.visible{
+  opacity: 1!important;
+  height: 95vh!important;
+  transition-duration: 0.5s;
+}
+.image_holder{
+  height: 0vh;
+  opacity: 0;
+  transition-duration: 0.5s;
+  overflow: hidden;
+}
+.image_holder img {
+    max-width: 80%;
+    height: 80%;
+    display: block;
+    margin: 0px auto;
+}
+
+.control_strip {
+    text-align: right;
+}
+.vec-input {
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 0px;
+    padding: 10px;
+    color: white;
+}
+#viewbtn {
+    background-color: #1D7745;
+    padding: 10px;
+    border: 0px;
+    border-radius: 50px;
+    color: white;
+    height: 5vh;
 }

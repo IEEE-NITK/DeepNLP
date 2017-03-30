@@ -119,3 +119,44 @@ function interact(message) {
     });
 
 }
+var words;
+var links;
+function interact3(word) {
+    
+      
+}
+
+function insertword() {
+    interact3(word);
+}
+function toggleView(){
+    //insertword();
+    $(".image_holder").toggleClass("visible");    
+    if($("#closebtn").html() =="Visualize")
+        $("#closebtn").text("Close");
+    else
+        $("#closebtn").text("Visualize");
+}
+
+function getImage(){
+    word = $('.vec-input').val();
+    $.post('/vectorspace', {
+        data: word,
+    }).done(function(reply) {
+        
+        words = reply['words'];
+        link = reply["imglink"];
+        words = words.split(" "); 
+
+        document.getElementById("vec_img").src = link;
+        $('.reply_links2 ul').empty();
+
+        words.forEach(function(word){
+            $('.reply_links2 ul').append($("<li>").text(word));
+        });
+       
+        }).fail(function() {
+        alert('error calling function');
+    });
+
+}
