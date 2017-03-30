@@ -33,11 +33,14 @@ def best_avgs(words, all_vecs=all_word_vecs,k=10):
     
     
     ## get word embeddings for the words in our input array
-    embs = np.array([thrones2vec[word] for word in words])
+    #embs = np.array([thrones2vec[word] for word in words])
     emb_arr = []
+    if not bool(words):
+        words = ['Stark']
     for word in words:
         try:
             emb = thrones2vec[word]
+            print("trying to.. for " + word)
             emb_arr.append(emb)
         except:
             if word[0].isupper():

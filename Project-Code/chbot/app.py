@@ -75,8 +75,6 @@ def relationship():
     start1 = entit_arr[0]
     end1 = entit_arr[1]
     start2 = entit_arr[2]
-    print(names)
-    print("aailaa")
     try:
         return jsonify({'text' : w2v_relationship(start1,end1,start2)})
     except:
