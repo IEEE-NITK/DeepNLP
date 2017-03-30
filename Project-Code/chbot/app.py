@@ -12,6 +12,7 @@ import subprocess
 import word_vectors
 from textblob import TextBlob
 from word_vectors import best_avgs
+from word_vectors import plot_close_to
 from word_vectors import relationship as w2v_relationship
 
 def q2a_generative(query):
@@ -78,6 +79,19 @@ def relationship():
     print("aailaa")
     try:
         return jsonify({'text' : w2v_relationship(start1,end1,start2)})
+    except:
+        return jsonify({'error': 'word not in index'})
+
+
+
+@app.route('/vectorspace', methods=['POST'])
+def vectorspace():
+    word = request.form['data']
+
+    print(word)
+    words, link = plot_close_to(word)
+    try:
+        return jsonify({'words':words,'imglink':link})
     except:
         return jsonify({'error': 'word not in index'})
 # @app.route('/execute', methods=['POST'])

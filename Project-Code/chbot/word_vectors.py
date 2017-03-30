@@ -13,19 +13,19 @@ PATH = ""
 #thrones2vec = w2v.Word2Vec.load("thrones2vec.w2v")
 thrones2vec = w2v.Word2Vec.load(os.path.join(PATH, "thrones2vec.w2v"))
 all_word_vecs = thrones2vec.syn0
-#Y = np.load('tsne.npy')
-#
-#
-#points = pd.DataFrame(
-#    [
-#        (word, coords[0], coords[1])
-#        for word, coords in [
-#            (word, Y[thrones2vec.vocab[word].index])
-#            for word in thrones2vec.vocab
-#        ]
-#    ],
-#    columns=["word", "x", "y"]
-#)
+Y = np.load('tsne.npy')
+
+
+points = pd.DataFrame(
+   [
+       (word, coords[0], coords[1])
+       for word, coords in [
+           (word, Y[thrones2vec.vocab[word].index])
+           for word in thrones2vec.vocab
+       ]
+   ],
+   columns=["word", "x", "y"]
+)
 
 
 def best_avgs(words, all_vecs=all_word_vecs,k=10):
@@ -96,7 +96,7 @@ def coords(word):
 
 
 
-def plot_region(x_bounds, y_bounds):
+def plot_region(x_bounds, y_bounds, points=points):
     
     slice = points[
         (x_bounds[0] <= points.x) &
@@ -110,7 +110,7 @@ def plot_region(x_bounds, y_bounds):
         inwords.append(point.word)
         ax.text(point.x + 0.005, point.y + 0.005, point.word, fontsize=11)
     fig = ax.get_figure()
-    file = 'IMG'+time.strftime("%Y%m%d%H%M%S")+'.png'
+    file = './static/' + 'IMG'+time.strftime("%Y%m%d%H%M%S")+'.png'
     fig.savefig(file)
     
     words = ", ".join(inwords)
